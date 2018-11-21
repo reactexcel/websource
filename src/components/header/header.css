@@ -1,0 +1,45 @@
+.header{
+    width: 100vw;
+    background: #7FA2DA url('../../assets/flag.png') no-repeat center left;
+    background-size: 40%;
+    padding: 10px 5vw;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.header .form {
+    display: flex;
+    width: 44%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header .form .group {
+    width: 30%;
+    height: 100%;
+}
+.header .form button {
+}
+.header-sub {
+    margin-top: 18px;
+    text-align: right;
+}
+.header-text {
+    margin-right: 20px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 600;
+}
+.header-btn {
+    padding: 5px 20px 6px 20px;
+    border-color: #0047B7;
+    color: #F3F4F6;
+    font-size: 14px;
+    font-weight: 600;
+    background: #0047B7;
+    border-radius: 5px;
+}
+.header-subtext {
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 12px;
+    color: #FFFFFF;
+}

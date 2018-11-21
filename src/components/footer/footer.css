@@ -1,0 +1,27 @@
+.forget-help-text {
+    font-style: normal;
+    font-weight: normal;
+    line-height: 18px;
+    font-size: 12px;
+    color: #4075C9;
+}
+.footer-container {
+    text-align: center;
+    padding: 30px 0px 50px;
+}
+.footer-container ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-container ul li {
+    display: inline-block;
+    padding: 5px;
+    margin: 0 1vw 1vw;
+    color: #4075C9;
+    font-size: 14px;
+}
+.footer-holemark {
+    line-height: 18px;
+    font-size: 12px;
+    color: #2F333E;
+}
